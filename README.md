@@ -109,8 +109,8 @@ Gradient Boosting wins — 200 trees, each correcting the errors of the previous
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/fuel-or-fool.git
-cd fuel-or-fool
+git clone https://github.com/denyskotcode/vehicle_CO2_emission_analyzer.git
+cd vehicle_CO2_emission_analyzer
 
 # 2. Create virtual environment
 python -m venv .venv
@@ -199,9 +199,8 @@ Building this project taught me:
 
 ## 🔗 Links
 
-- 🌐 [Live Demo](#) *(Streamlit Cloud — coming soon)*
 - 📦 [Dataset on Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
-- 👤 [My GitHub](https://github.com/yourusername)
+- 👤 [GitHub](https://github.com/denyskotcode/vehicle_CO2_emission_analyzer)
 
 ---
 
