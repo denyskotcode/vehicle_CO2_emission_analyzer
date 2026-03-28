@@ -206,3 +206,10 @@ Building this project taught me:
 
 *Built as a portfolio project · March 2026*  
 *Inspired by the EU Energy Label system for passenger cars*
+
+
+---
+
+## License
+
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
